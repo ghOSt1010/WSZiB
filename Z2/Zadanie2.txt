@@ -1,0 +1,12 @@
+You're junior java developer in a company called Mex. 
+Your first assignment is to write a simple program that'll generate emil addresses for new employees.
+Email address should be bild using following pattern: surname.name@mex.com
+
+In case of people with the same surnae and name there should be a number added to the name - ie. 
+twain.mark@mex.com and twain.mark1@mex.comm
+
+It must be possible to provide a name and surmane of new empoee from keyboard in console. 
+Then program should pring generated email address.
+There're two approaches to hold information that can be used here:
+- data about emploees can be stored in the memory and will be gone once program is closed
+- data about employees can be stored in the text file.
