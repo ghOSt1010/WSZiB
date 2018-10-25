@@ -15,9 +15,11 @@ public class Main {
 
         String selection;
         boolean endOfProgram = false;
-        int counter = 0;
+        int counter;
 
         while (!endOfProgram) {
+
+            counter = 0;
 
             System.out.println("Would you like to add new Employee? Y/N");
 
